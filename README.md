@@ -17,9 +17,13 @@ The system uses a binary CNN classifier trained to distinguish between “thumbs
 Software and Hardware Used
 
 • Programming Language: Python
+
 • Libraries: TensorFlow, Keras, Picamera2, Numpy, PIL, Sense-HAT
+
 • Hardware: Raspberry Pi 4, Raspberry Pi Camera, Sensor HAT, Main PC, WiFi- Router
+
 • Software: Google Colab
+
 
 Implementation
 
