@@ -2,9 +2,7 @@
 
 Building a real-time gesture recognition system using Convolutional Neural Networks (CNNs) deployed on a Raspberry Pi.
 
-![IMG_3213](https://github.com/user-attachments/assets/e965f619-66c8-4849-ae73-b438cea4d399)
-
-![IMG_3214](https://github.com/user-attachments/assets/abef67cb-9abc-4a0a-954a-2ce4748f392e)
+![IMG_3213](https://github.com/user-attachments/assets/e965f619-66c8-4849-ae73-b438cea4d399) ![IMG_3214](https://github.com/user-attachments/assets/abef67cb-9abc-4a0a-954a-2ce4748f392e)
 
 Introduction
 
@@ -39,12 +37,22 @@ NOTE: Python3,PiCam2 and other needed libraries should be pre-installed for this
 Some Good to know commands:
 
 1.ssh into pi
+
 ssh username@hostname.local
+
 2.copy files
+
 scp source destination <-give the path of the source and destination
+
 3.to make a venv
+
 python3 -m venv venv
+
 4.to active a venv
+
 source venv/bin/activate
+
 5.to install python packages
+
 pip install some-package
+
